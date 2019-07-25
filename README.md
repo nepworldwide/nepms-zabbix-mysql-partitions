@@ -1,0 +1,1 @@
+# nepms-zabbix-mysql-partitions
